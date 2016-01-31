@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -41,7 +42,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69167114"
-     inkscape:cx="462.05914"
+     inkscape:cx="128.80828"
      inkscape:cy="446.07552"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -183,33 +184,37 @@
            id="tspan3360-4-8"
            sodipodi:role="line">html</tspan></text>
     </g>
-    <g
-       id="js-badge"
-       transform="translate(1.2767487,-4.6602173)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         ry="16.617006"
-         rx="18.757307"
-         y="505.44385"
-         x="335.46707"
-         height="53.531979"
-         width="148.10513"
-         id="rect3428-8"
-         style="opacity:0.5;fill:#ffcc00;fill-opacity:1;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="124%"
-         id="text3358-3-8-8"
-         y="538.41711"
-         x="401.29089"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:124.00000095%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:22.5px;line-height:124.00000095%"
-           y="538.41711"
+    <a
+       id="a4241"
+       xlink:href="http://www.w3schools.com/js/">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="translate(1.2767487,-4.6602173)"
+         id="js-badge">
+        <rect
+           style="opacity:0.5;fill:#ffcc00;fill-opacity:1;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect3428-8"
+           width="148.10513"
+           height="53.531979"
+           x="335.46707"
+           y="505.44385"
+           rx="18.757307"
+           ry="16.617006" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:124.00000095%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="401.29089"
-           id="tspan3360-4-8-0"
-           sodipodi:role="line">js</tspan></text>
-    </g>
+           y="538.41711"
+           id="text3358-3-8-8"
+           sodipodi:linespacing="124%"><tspan
+             sodipodi:role="line"
+             id="tspan3360-4-8-0"
+             x="401.29089"
+             y="538.41711"
+             style="font-size:22.5px;line-height:124.00000095%">js</tspan></text>
+      </g>
+    </a>
     <g
        id="bootstrap-badge"
        transform="translate(-0.50764465,-1.2905273)"
