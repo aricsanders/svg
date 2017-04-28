@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3758"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="InstrumentControlDiagram.svg">
+  <defs
+     id="defs3752" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="47.142857"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3755">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.75;fill:#000080;stroke-width:0.28838003"
+       id="rect3790"
+       width="196.54764"
+       height="119.44045"
+       x="7.3327341"
+       y="23.345232" />
+    <rect
+       style="opacity:0.75;fill:#ff0000;stroke-width:0.26458332"
+       id="rect3788"
+       width="193.52382"
+       height="139.09525"
+       x="9.8273811"
+       y="151.10117" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.214283"
+       y="18.809525"
+       id="text3762"><tspan
+         sodipodi:role="line"
+         id="tspan3760"
+         x="27.214283"
+         y="18.809525"
+         style="font-size:16.93333244px;stroke-width:0.26458332">Instrument Control</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#0000ff;stroke-width:0.26458332"
+       id="rect3764"
+       width="167.82143"
+       height="43.089287"
+       x="21.922617"
+       y="26.369047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.754152"
+       y="34.939068"
+       id="text3768"><tspan
+         sodipodi:role="line"
+         id="tspan3766"
+         x="21.754152"
+         y="34.939068"
+         style="stroke-width:0.26458332">Static Metadata</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#000080;stroke-width:0.26458332"
+       id="rect3770"
+       width="167.82143"
+       height="45.357143"
+       x="21.922615"
+       y="71.575005" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.413086"
+       y="80.145027"
+       id="text3774"><tspan
+         sodipodi:role="line"
+         id="tspan3772"
+         x="21.413086"
+         y="80.145027"
+         style="stroke-width:0.26458332">Dynamic Metadata</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#800000;stroke-width:0.26458332"
+       id="rect3776"
+       width="167.82143"
+       height="46.264278"
+       x="24.245472"
+       y="159.22702" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.122452"
+       y="186.30466"
+       id="text3780"><tspan
+         sodipodi:role="line"
+         id="tspan3778"
+         x="68.122452"
+         y="186.30466"
+         style="stroke-width:0.26458332">VisaInstrument</tspan></text>
+    <rect
+       style="opacity:0.75;fill:#ff0000;stroke-width:0.26458332"
+       id="rect3782"
+       width="167.82144"
+       height="43.127754"
+       x="24.245464"
+       y="210.86212" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="58.182495"
+       y="235.34572"
+       id="text3786"><tspan
+         sodipodi:role="line"
+         id="tspan3784"
+         x="58.182495"
+         y="235.34572"
+         style="stroke-width:0.26458332">SpecificInstrument</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.791672"
+       y="279.6131"
+       id="text3794"><tspan
+         sodipodi:role="line"
+         id="tspan3792"
+         x="68.791672"
+         y="279.6131"
+         style="stroke-width:0.26458332">Python Code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.791664"
+       y="132.95834"
+       id="text3798"><tspan
+         sodipodi:role="line"
+         id="tspan3796"
+         x="68.791664"
+         y="132.95834"
+         style="stroke-width:0.26458332">On Disk Files</tspan></text>
+  </g>
+</svg>
